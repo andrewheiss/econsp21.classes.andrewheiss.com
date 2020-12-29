@@ -1,9 +1,6 @@
 # SITE SETUP
 # Guide: https://sourcethemes.com/academic/docs/get-started/
 # Documentation: https://sourcethemes.com/academic/docs/
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
 ## Theme
@@ -118,7 +115,7 @@ course:
   days: "Any day"
   time: "Any time"
   # location: "Online only (thanks, COVID-19, for ruining everything)"
-  dates: "August 24–December 15, 2020"
+  dates: "January 11–April 26, 2021"
   github: "andrewheiss/econsp21.classes.andrewheiss.com"
   copyrightYear: "2021"
   slack: "https://gsueconsp2021.slack.com"

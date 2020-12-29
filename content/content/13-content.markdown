@@ -3,7 +3,7 @@ title: "When governments go wrong"
 linktitle: "13: When governments go wrong"
 date: "2021-04-12"
 start_date: "2021-04-12"
-end_date: "2020-04-16"
+end_date: "2021-04-16"
 menu:
   content:
     parent: Course content
