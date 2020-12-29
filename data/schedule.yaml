@@ -1,0 +1,237 @@
+lessons:
+  - title: 'Capitalism, markets, and public policy'
+    header: True
+
+  - title: '<span class="content-title">Capitalism and measurement</span>'
+    session: "Session 1"
+    date: "January 11–15"
+    date_start: "January 11"
+    date_end: "January 15"
+    content: "01-content"
+    bg: 1
+  
+  - title: 'Weekly report 1 due'
+    date: "January 19"
+    assignment: "01-weekly-report"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title">Governments and institutions</span>'
+    session: "Session 2"
+    date: "January 19–22"
+    date_start: "January 19"
+    date_end: "January 22"
+    content: "02-content"
+    bg: 2
+
+  - title: 'Weekly report 2 due'
+    date: "January 25"
+    assignment: "02-weekly-report"
+    bg: 2
+
+  - title: 'Problem set 1 due'
+    date: "January 25"
+    assignment: "01-problem-set"
+    bg: 2
+    bottomborder: True
+ 
+  - title: '<span class="content-title">Social interactions and economic outcomes</span>'
+    session: "Session 3"
+    date: "January 25–29"
+    date_start: "January 25"
+    date_end: "January 29"
+    content: "03-content"
+    bg: 1
+  
+  - title: 'Weekly report 3 due'
+    date: "February 1"
+    assignment: "03-weekly-report"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title">Fairness and efficiency</span>'
+    session: "Session 4"
+    date: "February 1–5"
+    date_start: "February 1"
+    date_end: "February 5"
+    content: "04-content"
+    bg: 2
+
+  - title: 'Weekly report 4 due'
+    date: "February 8"
+    assignment: "04-weekly-report"
+    bg: 2
+
+  - title: 'Problem set 2 due'
+    date: "February 8"
+    assignment: "02-problem-set"
+    bg: 2
+
+  - title: 'Economic models'
+    header: True
+
+  - title: '<span class="content-title">Work, wellbeing, and scarcity</span>'
+    session: "Sessions 5–6"
+    date: "February 8–19"
+    date_start: "February 8"
+    date_end: "February 19"
+    content: "05-content"
+    bg: 1
+  
+  - title: 'Weekly report 5 due'
+    date: "February 15"
+    assignment: "05-weekly-report"
+    bg: 1
+
+  - title: 'Weekly report 6 due'
+    date: "February 22"
+    assignment: "06-weekly-report"
+    bg: 1
+
+  - title: 'Problem set 3 due'
+    date: "February 22"
+    assignment: "03-problem-set"
+    bg: 1
+    bottomborder: True
+   
+  - title: '<span class="content-title">The firm</span>'
+    session: "Sessions 7–8"
+    date: "February 22–March 5"
+    date_start: "February 22"
+    date_end: "March 5"
+    content: "07-content"
+    bg: 2
+
+  - title: 'Weekly report 7 due'
+    date: "March 1"
+    assignment: "07-weekly-report"
+    bg: 2
+
+  - title: 'Weekly report 8 due'
+    date: "March 8"
+    assignment: "08-weekly-report"
+    bg: 2
+
+  - title: 'Problem set 4 due'
+    date: "March 8"
+    assignment: "04-problem-set"
+    bg: 2
+
+  - title: '<i class="fas fa-star"></i> **Exam 1**'
+    date: "March 9–15"
+    date_start: "March 9"
+    date_end: "March 15"
+    bg: 3
+    bottomborder: True
+
+  - title: '<span class="content-title">Firms and markets</span>'
+    session: "Sessions 9–10"
+    date: "March 8–March 26"
+    date_start: "March 8"
+    date_end: "March 26"
+    content: "09-content"
+    bg: 1
+
+  - title: '<strong>Spring break!</strong>'
+    date: "March 15–21"
+    date_start: "March 15"
+    date_end: "March 21"
+    bg: 3
+
+  - title: 'Weekly report 9 due'
+    date: "March 22"
+    assignment: "09-weekly-report"
+    bg: 1
+  
+  - title: 'Weekly report 10 due'
+    date: "March 29"
+    assignment: "10-weekly-report"
+    bg: 1
+
+  - title: 'Problem set 5 due'
+    date: "March 29"
+    assignment: "05-problem-set"
+    bg: 1
+
+  - title: 'Market failures and institutions'
+    header: True
+    
+  - title: '<span class="content-title">Institutions, power, and inequality</span>'
+    session: "Session 11"
+    date: "March 29–April 2"
+    date_start: "March 29"
+    date_end: "April 2"
+    content: "11-content"
+    bg: 2
+
+  - title: 'Weekly report 11 due'
+    date: "April 5"
+    assignment: "11-weekly-report"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Market failures</span>'
+    session: "Session 12"
+    date: "April 5–9"
+    date_start: "April 5"
+    date_end: "April 9"
+    content: "12-content"
+    bg: 1
+
+  - title: 'Weekly report 12 due'
+    date: "April 12"
+    assignment: "12-weekly-report"
+    bg: 1
+
+  - title: 'Problem set 6 due'
+    date: "April 12"
+    assignment: "06-problem-set"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title">When governments go wrong</span>'
+    session: "Session 13"
+    date: "April 12–16"
+    date_start: "April 12"
+    date_end: "April 16"
+    content: "13-content"
+    bg: 2
+
+  - title: 'Weekly report 13 due'
+    date: "April 19"
+    assignment: "13-weekly-report"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Institutional alternatives</span>'
+    session: "Session 14"
+    date: "April 19–23"
+    date_start: "April 19"
+    date_end: "April 23"
+    content: "14-content"
+    bg: 1
+
+  - title: 'Weekly report 14 due'
+    date: "April 26"
+    assignment: "14-weekly-report"
+    bg: 1
+
+  - title: 'Problem set 7 due'
+    date: "April 26"
+    assignment: "07-problem-set"
+    bg: 1
+
+  - title: 'Conclusions'
+    header: True
+
+  - title: '<span class="content-title">Markets, public policy, and public administration</span>'
+    session: "Session 15"
+    date: "April 26"
+    content: "15-content"
+    bg: 1
+
+  - title: '<i class="fas fa-star"></i> **Exam 2**'
+    date: "April 27–May 4"
+    date_start: "April 27"
+    date_end: "May 4"
+    bg: 3

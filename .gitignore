@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public/*
+private/*
+.DS_Store
+resources/_gen/*
+blogdown/md5sum.txt
+themes/*
