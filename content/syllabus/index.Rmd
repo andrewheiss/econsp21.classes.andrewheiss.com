@@ -15,8 +15,6 @@ library(tibble)
 library(pander)
 ```
 
-`r blogdown::shortcode("toc")`
-
 `r blogdown::shortcode("courseinfo")`
 
 ## Course objectives
@@ -99,9 +97,6 @@ I want you to learn lots of things from this class, but I primarily want you to 
 ### Late work
 
 You will lose 1 point per day for each day a problem set is late (that's designed to not be a huge penalty—3 days late = 17/20 points on a problem set that gets a ✓).
-
-After 1 week, I will send an automated reminder e-mail. After 2 weeks, you will receive no points.
-
 
 ### Counseling and Psychological Services (CPS)
 
