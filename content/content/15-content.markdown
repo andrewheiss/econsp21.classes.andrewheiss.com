@@ -41,11 +41,11 @@ You can also watch the playlist (and skip around to different sections) here:
 
 <div class="embed-responsive embed-responsive-16by9">
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLS6tnpTr39sFgMq7J0DiyZWtFwzl8iakh" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/playlist?list=PLS6tnpTr39sFgMq7J0DiyZWtFwzl8iakh" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 </div>
 
 [^1]: Charles E. Lindblom, “The Science of ‘Muddling Through’,” *Public Administration Review* 19, no. 2, Spring (1959): 79–88.
 
-[^2]: Esther Duflo, “Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty?”   (Washington, D. C.: Center for Global Development, April 2011).
+[^2]: Esther Duflo, “Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty?” \~ (Washington, D. C.: Center for Global Development, April 2011).
